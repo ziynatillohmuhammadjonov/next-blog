@@ -56,7 +56,7 @@ export default async function Project({ params }: Props) {
         />
 
         <div className="flex flex-col gap-y-6 mt-8 leading-7 text-zinc-400">
-          <PortableText value={project.description?project.description:''} />
+          <PortableText value={project.description&&project.description} />
         </div>
       </div>
     </main>
