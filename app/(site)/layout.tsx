@@ -8,7 +8,7 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sanity Next.js Portfolio Site",
+  title: "Sanity Next.js Ziynatilloh",
   icons:'blog.svg',
   description: "Shaxsiy porfolio websayt",
 };

@@ -1,10 +1,8 @@
-import { BiBriefcase } from "react-icons/bi";
 
 const job = {
   name: "job",
   title: "Job",
   type: "document",
-  icon: BiBriefcase,
   fields: [
     {
       name: "name",
